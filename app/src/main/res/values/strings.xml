@@ -1,0 +1,8 @@
+<resources>
+
+    <string name="app_name">Gasto de Viagem</string>
+    <string name="informe_todos_campos">Informe todos os campos.</string>
+    <string name="informe_valores_validos">Informe valores válidos.</string>
+    <string name="autonomia_diferente_zero">Autonomia deve ser diferente de zero.</string>
+
+</resources>
